@@ -1,4 +1,4 @@
-#Sun Sep 13 20:45:23 BRT 2020
-base.0=/home/leticia/AndroidStudioProjects/weather2/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Sun Sep 13 22:15:27 BRT 2020
+base.0=/home/leticia/AndroidStudioProjects/weather/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

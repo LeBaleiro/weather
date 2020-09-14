@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/leticia/AndroidStudioProjects/weather2/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/leticia/AndroidStudioProjects/weather/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/leticia/.gradle/caches/transforms-2/files-2.1/c1a4e4216a6436dd3fdc9bfc0e7677fb/jetified-play-services-basement-17.0.0/res/values/values.xml",
@@ -59,7 +59,7 @@
                     }
                 },
                 {
-                    "source": "/home/leticia/AndroidStudioProjects/weather2/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/leticia/AndroidStudioProjects/weather/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
